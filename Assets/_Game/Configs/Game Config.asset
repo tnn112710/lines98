@@ -15,7 +15,7 @@ MonoBehaviour:
   ColCount: 9
   TotalBlocks: 81
   InitBallCount: 10
-  PrepareBallCount: 5
+  PrepareBallCount: 3
   MaxTime: 120
   CanSpawnGhost: 1
   GhostChance: 0.1
